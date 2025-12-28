@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(20, 20, 20);
+    color: whitesmoke
+}
+
+body {
+    margin: 32px 500px 16px 500px;
+    padding: 16px;
+    border-radius: 20px;
+    background-color:rgb(31, 31, 31);
+    box-shadow: 5px 5px 50px rgb(10, 10, 10);
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ol, ul, li {
+    background-color:rgb(31, 31, 31);
+}
+
+img {
+    border-radius: 10px;
+    border: solid 2px rgb(48, 48, 48);
+    box-sizing: border-box;
+}
